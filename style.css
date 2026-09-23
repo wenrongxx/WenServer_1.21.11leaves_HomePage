@@ -288,3 +288,15 @@ footer {
   .top { padding: .55rem .9rem; }
   nav { gap: .2rem .7rem; font-size: .88rem; }
 }
+
+.nav-mon {
+  padding: 0.18rem 0.6rem !important;
+  border: 1px solid var(--qq, #2bb0ee);
+  border-radius: 999px;
+  color: var(--qq, #2bb0ee) !important;
+  background: rgba(43,176,238,.12);
+}
+.nav-mon:visited { color: var(--qq, #2bb0ee) !important; }
+.mon-line { margin: 0.5rem 0 0; font-size: 0.92rem; color: #c5ced6; }
+.mon-line a { color: var(--gold-hi, #f0c85a); font-weight: 700; }
+.mon-line a:visited { color: var(--gold-hi, #f0c85a) !important; }
